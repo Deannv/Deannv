@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Deannv
 - 👀 I’m interested in Back-End programming and graphic design (and Science).
-- 🌱 I’m currently learning Implementation of Spring and JQuery
-- 💞️ I’m looking to collaborate on (i don't know, maybe small project?).
+- 💞️ I’m looking to collaborate on (i don't know, maybe magical projects?).
 - 📫 How to reach me : afilfriend@gmail.com or @kemaswv on Instagram.
 
 I love my mom, my computer and my bed.

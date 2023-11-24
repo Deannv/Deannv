@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Deannv
-- 👀 I’m interested in Back-End programming and graphic design (and Science).
+- 👋 Hi, I’m Kemas
+- 👀 I’m interested in Back-End and graphic design (and Science).
 - 💞️ I’m looking to collaborate on (i don't know, maybe magical projects?).
 - 📫 How to reach me : afilfriend@gmail.com or @kemaswv on Instagram.
 

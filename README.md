@@ -1,4 +1,4 @@
-<h2 align="left">I'm Kemas and I !hate to code.</h2>
+<h2 align="left">Just pull, code and push it ain't that hard. (probably, idk)</h2>
 
 <br clear="both">
 
